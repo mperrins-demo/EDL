@@ -180,3 +180,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:75:75a5::1,2026-05-11T18:03:15Z,nginx-configprobe,604800,ban
 2a02:4780:75:be9f::1,2026-05-11T18:03:17Z,nginx-configprobe,604800,ban
 2a02:c207:2278:9928::1,2026-05-11T18:03:19Z,nginx-configprobe,604800,ban
+2a04:52c0:130:1a76::1,2026-05-11T18:03:21Z,nginx-configprobe,604800,ban
