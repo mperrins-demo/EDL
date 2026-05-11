@@ -160,3 +160,4 @@ ip,timestamp,jail,bantime,action
 85.204.70.118,2026-05-11T18:02:33Z,nginx-4xx-catchall,86400,ban
 2602:fb54:1400::1e,2026-05-11T18:02:35Z,nginx-configprobe,604800,ban
 85.204.70.88,2026-05-11T18:02:37Z,nginx-4xx-catchall,86400,ban
+2602:fb54:1400::27,2026-05-11T18:02:39Z,nginx-configprobe,604800,ban
