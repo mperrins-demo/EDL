@@ -171,3 +171,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1a00::1ab,2026-05-11T18:02:56Z,nginx-configprobe,604800,ban
 2602:fb54:1a00::1c3,2026-05-11T18:02:58Z,nginx-configprobe,604800,ban
 2602:fb54:1a00::1db,2026-05-11T18:03:00Z,nginx-configprobe,604800,ban
+2602:fb54:1a00::1f7,2026-05-11T18:03:03Z,nginx-configprobe,604800,ban
