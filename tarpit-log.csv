@@ -21,3 +21,4 @@ ip,timestamp,jail,bantime,action
 13.75.199.23,2026-05-11T17:57:37Z,nginx-4xx-catchall,86400,ban
 18.144.80.247,2026-05-11T17:57:39Z,nginx-botsearch,86400,ban
 189.136.130.187,2026-05-11T17:57:41Z,nginx-wordpress,604800,ban
+103.215.74.213,2026-05-11T17:57:43Z,nginx-configprobe,604800,ban
