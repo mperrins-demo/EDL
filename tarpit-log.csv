@@ -1,0 +1,2 @@
+ip,timestamp,jail,bantime,action
+13.200.231.70,2026-05-11T17:56:58Z,nginx-botsearch,86400,ban
