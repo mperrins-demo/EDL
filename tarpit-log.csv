@@ -58,3 +58,4 @@ ip,timestamp,jail,bantime,action
 2a06:98c0:3600::103,2026-05-11T17:58:52Z,nginx-wordpress,604800,ban
 13.62.227.69,2026-05-11T17:58:54Z,nginx-configprobe,604800,ban
 18.143.139.215,2026-05-11T17:58:56Z,nginx-4xx-catchall,86400,ban
+2a09:bac1:1160:b0::422:6e,2026-05-11T17:58:58Z,nginx-wordpress,604800,ban
