@@ -1,25 +1,41 @@
 # Perrins EDL (External Dynamic List)
 
-Scanner IPs caught by fail2ban across the Perrins infrastructure.
+Automatically maintained blocklists of scanner and attacker IPs observed across Perrins-managed infrastructure. Updated in real time as detections occur.
 
-## Structure
+## Lists
+
+| File | Description |
+|------|-------------|
+| `lists/tarpit-ipv4.txt` | IPv4 addresses, one per line |
+| `lists/tarpit-ipv6.txt` | IPv6 addresses, one per line |
+| `lists/tarpit-ips-all.txt` | Combined IPv4 + IPv6 (auto-generated) |
+
+Each list is plain text, one address per line. Lines starting with `#` are comments. Suitable for ingestion by firewalls, WAFs, geo blocks, or any system that consumes IP blocklists.
+
+## Audit log
+
+`tarpit-log.csv` records every ban and unban event with timestamp, detection category, ban duration, and address family.
+
+## Detection categories
+
+| Category | Description |
+|----------|-------------|
+| `nginx-wordpress` | WordPress login/admin probing |
+| `nginx-configprobe` | Scanning for .env, .git/config, config files |
+| `nginx-traversal` | Path traversal attempts |
+| `nginx-shellinjection` | Shell injection in request parameters |
+| `nginx-sqli` | SQL injection attempts |
+| `nginx-botsearch` | Automated vulnerability scanners |
+| `nginx-4xx-catchall` | High volume 4xx error generation |
+
+## How to consume
+
+Raw file URLs for automated ingestion:
 
 ```
-lists/
-  tarpit-ipv4.txt     # IPv4 addresses only
-  tarpit-ipv6.txt     # IPv6 addresses only
-  tarpit-ips-all.txt  # Combined (auto-generated)
-urls/
-  (future URL lists)
-tarpit-log.csv        # Full audit log: IP, timestamp, jail, bantime, type, action
+https://raw.githubusercontent.com/mperrins-demo/EDL/main/lists/tarpit-ipv4.txt
+https://raw.githubusercontent.com/mperrins-demo/EDL/main/lists/tarpit-ipv6.txt
+https://raw.githubusercontent.com/mperrins-demo/EDL/main/lists/tarpit-ips-all.txt
 ```
 
-## How it works
-
-1. Scanner hits a Perrins client site
-2. fail2ban detects the pattern (8 jails)
-3. Ban action adds IP to nginx tarpit + correct list file + pushes here
-4. Pi cron pulls every 5 min, deduplicates, regenerates nginx config, reloads
-5. Scanner gets slow-dripped garbage
-
-Git history is the audit trail.
+Git history serves as the full audit trail — every addition and removal is a commit.

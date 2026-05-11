@@ -1,1 +1,12 @@
+# Secrets
 .git-token
+
+# Operational scripts (internal, not public)
+scripts/
+
+# Legacy
+Test-EDL
+tarpit-ips.txt
+
+# URL lists dir (added as needed)
+urls/
