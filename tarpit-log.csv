@@ -246,3 +246,4 @@ ip,timestamp,jail,bantime,action
 93.123.109.166,2026-05-11T18:05:34Z,nginx-configprobe,604800,ban
 95.169.173.40,2026-05-11T18:05:36Z,nginx-configprobe,604800,ban
 96.62.228.36,2026-05-11T18:05:39Z,nginx-configprobe,604800,ban
+96.62.228.93,2026-05-11T18:05:41Z,nginx-configprobe,604800,ban
