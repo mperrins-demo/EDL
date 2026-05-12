@@ -375,3 +375,4 @@ ip,timestamp,jail,bantime,action
 20.151.104.6,2026-05-12T15:14:25Z,nginx-4xx-catchall,86400,ipv4,ban
 15.168.177.24,2026-05-12T15:20:02Z,nginx-botsearch,,ipv4,unban
 3.95.33.84,2026-05-12T15:20:11Z,nginx-4xx-catchall,,ipv4,unban
+3.95.33.84,2026-05-12T15:25:20Z,nginx-botsearch,,ipv4,unban
