@@ -325,3 +325,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:952f:25a5::3c0:45,2026-05-12T10:26:42Z,nginx-wordpress,,ipv6,unban
 18.183.129.171,2026-05-12T10:28:40Z,nginx-4xx-catchall,86400,ipv4,ban
 195.178.110.223,2026-05-12T10:39:45Z,nginx-configprobe,604800,ipv4,ban
+47.129.236.133,2026-05-12T10:46:57Z,nginx-4xx-catchall,86400,ipv4,ban
