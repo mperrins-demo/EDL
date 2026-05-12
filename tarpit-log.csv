@@ -349,3 +349,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:952b:31f5::4fa:d,2026-05-12T13:06:41Z,nginx-4xx-catchall,86400,ipv6,ban
 44.249.34.145,2026-05-12T13:10:09Z,nginx-botsearch,,ipv4,unban
 4.193.121.6,2026-05-12T13:19:15Z,nginx-4xx-catchall,86400,ipv4,ban
+16.145.13.8,2026-05-12T13:39:16Z,nginx-4xx-catchall,,ipv4,unban
