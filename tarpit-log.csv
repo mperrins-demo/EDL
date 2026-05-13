@@ -498,3 +498,4 @@ ip,timestamp,jail,bantime,action
 35.239.48.228,2026-05-13T08:48:22Z,nginx-4xx-catchall,,ipv4,unban
 20.223.136.145,2026-05-13T08:51:32Z,nginx-wordpress,,ipv4,unban
 82.102.18.190,2026-05-13T09:09:47Z,nginx-4xx-catchall,86400,ipv4,ban
+2a02:4780:75:b2c5::1,2026-05-13T09:19:25Z,nginx-configprobe,604800,ipv6,ban
