@@ -526,3 +526,4 @@ ip,timestamp,jail,bantime,action
 20.78.158.176,2026-05-13T12:12:42Z,nginx-wordpress,604800,ipv4,ban
 34.127.96.250,2026-05-13T12:14:36Z,nginx-4xx-catchall,,ipv4,unban
 52.172.142.96,2026-05-13T12:42:07Z,nginx-4xx-catchall,86400,ipv4,ban
+39.64.109.146,2026-05-13T12:45:38Z,nginx-4xx-catchall,,ipv4,unban
