@@ -755,3 +755,4 @@ ip,timestamp,jail,bantime,action
 45.153.34.43,2026-05-14T21:10:38Z,nginx-configprobe,604800,ipv4,ban
 45.153.34.43,2026-05-14T21:10:40Z,nginx-4xx-catchall,86400,ipv4,ban
 2602:fb54:1200::156,2026-05-14T21:10:46Z,nginx-configprobe,,ipv6,unban
+34.176.66.244,2026-05-14T21:11:50Z,nginx-configprobe,604800,ipv4,ban
