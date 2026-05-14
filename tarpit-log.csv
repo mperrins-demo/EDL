@@ -775,3 +775,4 @@ ip,timestamp,jail,bantime,action
 34.87.197.161,2026-05-14T23:35:56Z,nginx-configprobe,604800,ipv4,ban
 34.152.120.31,2026-05-14T23:43:40Z,nginx-configprobe,604800,ipv4,ban
 34.64.44.221,2026-05-14T23:51:02Z,nginx-configprobe,,ipv4,unban
+34.175.46.96,2026-05-14T23:59:40Z,nginx-configprobe,604800,ipv4,ban
