@@ -720,3 +720,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1a00::1f7,2026-05-14T15:43:23Z,nginx-configprobe,,ipv6,unban
 35.252.152.115,2026-05-14T15:46:46Z,nginx-4xx-catchall,,ipv4,unban
 2804:14c:97:82a7:853d:5a7:4bae:eb3a,2026-05-14T15:52:42Z,nginx-wordpress,604800,ipv6,ban
+144.172.94.2,2026-05-14T16:21:19Z,nginx-4xx-catchall,,ipv4,unban
