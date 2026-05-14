@@ -620,3 +620,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:385b:23cd::391:2d,2026-05-14T02:27:17Z,nginx-4xx-catchall,86400,ipv6,ban
 34.65.24.125,2026-05-14T02:32:40Z,nginx-4xx-catchall,,ipv4,unban
 193.31.31.145,2026-05-14T02:55:49Z,nginx-configprobe,604800,ipv4,ban
+8.228.82.113,2026-05-14T03:02:00Z,nginx-4xx-catchall,86400,ipv4,ban
