@@ -770,3 +770,4 @@ ip,timestamp,jail,bantime,action
 103.168.67.159,2026-05-14T23:16:27Z,nginx-4xx-catchall,,ipv4,unban
 2602:fb54:1400::32,2026-05-14T23:19:24Z,nginx-configprobe,,ipv6,unban
 34.102.102.230,2026-05-14T23:22:33Z,nginx-configprobe,,ipv4,unban
+34.175.43.90,2026-05-14T23:25:10Z,nginx-configprobe,604800,ipv4,ban
