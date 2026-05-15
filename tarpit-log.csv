@@ -795,3 +795,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:636b:281e::3ff:2a,2026-05-15T02:13:02Z,nginx-configprobe,604800,ipv6,ban
 35.234.32.93,2026-05-15T02:19:21Z,nginx-configprobe,604800,ipv4,ban
 35.245.42.87,2026-05-15T02:22:04Z,nginx-4xx-catchall,,ipv4,unban
+34.19.129.177,2026-05-15T02:22:49Z,nginx-configprobe,604800,ipv4,ban
