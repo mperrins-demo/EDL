@@ -848,3 +848,4 @@ ip,timestamp,jail,bantime,action
 2606:65c0:20:43e:aa6b:fc67:d33d:7e55,2026-05-15T08:52:13Z,nginx-configprobe,604800,ipv6,ban
 103.215.75.70,2026-05-15T09:12:31Z,nginx-configprobe,,ipv4,unban
 96.62.228.36,2026-05-15T09:17:49Z,nginx-configprobe,,ipv4,unban
+45.45.237.126,2026-05-15T09:33:48Z,nginx-configprobe,604800,ipv4,ban
