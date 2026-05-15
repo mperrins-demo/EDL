@@ -921,3 +921,4 @@ ip,timestamp,jail,bantime,action
 2a02:c207:2278:9928::1,2026-05-15T18:58:34Z,nginx-configprobe,,ipv6,unban
 140.245.121.218,2026-05-15T19:07:19Z,nginx-4xx-catchall,,ipv4,unban
 34.142.2.234,2026-05-15T19:16:22Z,nginx-configprobe,,ipv4,unban
+208.84.100.241,2026-05-15T19:27:23Z,nginx-configprobe,604800,ipv4,ban
