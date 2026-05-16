@@ -1,7 +1,6 @@
 # Perrins EDL — IPv4 tarpit list
 # Managed by fail2ban
 103.153.183.69
-103.168.66.178
 103.168.66.237
 103.215.75.221
 103.8.27.27
