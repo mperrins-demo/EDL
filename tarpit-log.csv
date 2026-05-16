@@ -970,3 +970,4 @@ ip,timestamp,jail,bantime,action
 2a06:98c0:3600::103,2026-05-16T04:12:11Z,nginx-4xx-catchall,86400,ipv6,ban
 45.94.31.112,2026-05-16T04:20:47Z,nginx-4xx-catchall,86400,ipv4,ban
 45.88.138.44,2026-05-16T04:24:42Z,nginx-configprobe,604800,ipv4,ban
+208.84.100.212,2026-05-16T04:28:26Z,nginx-configprobe,604800,ipv4,ban
