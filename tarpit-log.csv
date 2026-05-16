@@ -988,3 +988,4 @@ ip,timestamp,jail,bantime,action
 206.189.225.181,2026-05-16T06:37:00Z,nginx-configprobe,604800,ipv4,ban
 165.22.34.189,2026-05-16T06:37:02Z,nginx-configprobe,604800,ipv4,ban
 206.81.12.187,2026-05-16T06:37:04Z,nginx-configprobe,604800,ipv4,ban
+195.178.110.104,2026-05-16T06:37:06Z,nginx-configprobe,,ipv4,unban
