@@ -965,3 +965,4 @@ ip,timestamp,jail,bantime,action
 177.7.41.138,2026-05-16T03:29:17Z,nginx-configprobe,604800,ipv4,ban
 2a02:4780:10:469a::1,2026-05-16T03:43:44Z,nginx-configprobe,604800,ipv6,ban
 185.177.72.205,2026-05-16T03:47:23Z,nginx-configprobe,,ipv4,unban
+139.59.126.230,2026-05-16T03:53:16Z,nginx-4xx-catchall,,ipv4,unban
