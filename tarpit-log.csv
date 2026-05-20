@@ -1710,3 +1710,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1400::bd,2026-05-20T03:22:03Z,nginx-configprobe,604800,ipv6,ban
 45.148.10.159,2026-05-20T03:50:13Z,nginx-configprobe,,ipv4,unban
 104.28.156.112,2026-05-20T03:50:26Z,nginx-wordpress,604800,ipv4,ban
+2a09:bac1:6540:8::19b:144,2026-05-20T03:50:49Z,nginx-wordpress,604800,ipv6,ban
