@@ -1954,3 +1954,4 @@ ip,timestamp,jail,bantime,action
 118.104.216.44,2026-05-21T07:20:57Z,nginx-wordpress,604800,ipv4,ban
 118.104.216.44,2026-05-21T07:22:56Z,nginx-4xx-catchall,86400,ipv4,ban
 172.215.210.227,2026-05-21T07:26:45Z,nginx-configprobe,604800,ipv4,ban
+172.215.210.227,2026-05-21T07:26:48Z,nginx-traversal,2592000,ipv4,ban
