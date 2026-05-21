@@ -1985,3 +1985,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1400::ba,2026-05-21T12:00:57Z,nginx-configprobe,,ipv6,unban
 2a0b:8bc0:2:2433::1,2026-05-21T12:29:17Z,nginx-configprobe,,ipv6,unban
 195.178.110.155,2026-05-21T12:34:50Z,nginx-wordpress,,ipv4,unban
+195.178.110.155,2026-05-21T12:36:59Z,nginx-configprobe,,ipv4,unban
