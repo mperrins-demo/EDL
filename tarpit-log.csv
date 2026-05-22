@@ -2079,3 +2079,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:10:11c3::1,2026-05-22T04:20:46Z,nginx-configprobe,,ipv6,unban
 5.255.101.91,2026-05-22T04:29:41Z,nginx-configprobe,,ipv4,unban
 37.114.41.158,2026-05-22T05:00:25Z,nginx-configprobe,604800,ipv4,ban
+2a0e:97c0:3ea:10e::1,2026-05-22T05:00:27Z,nginx-configprobe,604800,ipv6,ban
