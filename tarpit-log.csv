@@ -2198,3 +2198,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac5:55f8:18d2::279:2b,2026-05-23T03:16:24Z,nginx-wordpress,604800,ipv6,ban
 34.10.177.248,2026-05-23T03:22:10Z,nginx-4xx-catchall,86400,ipv4,ban
 177.7.41.138,2026-05-23T03:29:18Z,nginx-configprobe,,ipv4,unban
+45.154.98.35,2026-05-23T03:41:40Z,nginx-4xx-catchall,86400,ipv4,ban
