@@ -2610,3 +2610,4 @@ ip,timestamp,jail,bantime,action
 64.236.176.232,2026-05-26T00:25:34Z,nginx-configprobe,604800,ipv4,ban
 64.236.176.232,2026-05-26T00:26:39Z,nginx-traversal,2592000,ipv4,ban
 108.129.207.65,2026-05-26T00:38:25Z,nginx-configprobe,,ipv4,unban
+2602:fb54:1400::14f,2026-05-26T00:42:05Z,nginx-configprobe,,ipv6,unban
