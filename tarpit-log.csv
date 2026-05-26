@@ -2710,3 +2710,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:4:c8a4::1,2026-05-26T18:21:27Z,nginx-configprobe,,ipv6,unban
 168.144.101.237,2026-05-26T18:56:59Z,nginx-4xx-catchall,,ipv4,unban
 5.255.122.18,2026-05-26T18:58:54Z,nginx-configprobe,,ipv4,unban
+139.59.228.172,2026-05-26T19:14:47Z,nginx-4xx-catchall,,ipv4,unban
