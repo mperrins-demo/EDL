@@ -2830,3 +2830,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1400::193,2026-05-27T14:31:07Z,nginx-4xx-catchall,,ipv6,unban
 103.168.67.107,2026-05-27T14:33:09Z,nginx-configprobe,604800,ipv4,ban
 2a02:4780:10:b29c::1,2026-05-27T14:34:19Z,nginx-configprobe,,ipv6,unban
+85.204.70.102,2026-05-27T15:01:42Z,nginx-4xx-catchall,,ipv4,unban
