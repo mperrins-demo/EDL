@@ -2815,3 +2815,4 @@ ip,timestamp,jail,bantime,action
 2a13:9500:16b:4fa0::1,2026-05-27T12:31:11Z,nginx-configprobe,,ipv6,unban
 146.70.134.178,2026-05-27T12:32:39Z,nginx-configprobe,604800,ipv4,ban
 20.12.190.196,2026-05-27T12:37:03Z,nginx-4xx-catchall,,ipv4,unban
+2602:fb54:9a6::,2026-05-27T12:41:12Z,nginx-configprobe,,ipv6,unban
