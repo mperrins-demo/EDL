@@ -1,6 +1,5 @@
 # Perrins EDL — IPv6 tarpit list
 # Managed by fail2ban
-2a01:4f9:c015:202c::1
 2602:fb54:1a00::f4
 2602:fb54:1400::173
 2a09:2dc2:0:5916::
