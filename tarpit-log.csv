@@ -2812,3 +2812,4 @@ ip,timestamp,jail,bantime,action
 20.9.9.243,2026-05-27T12:04:35Z,nginx-wordpress,604800,ipv4,ban
 20.9.9.243,2026-05-27T12:05:36Z,nginx-wordpress,604800,ipv4,ban
 20.206.111.238,2026-05-27T12:16:54Z,nginx-4xx-catchall,,ipv4,unban
+2a13:9500:16b:4fa0::1,2026-05-27T12:31:11Z,nginx-configprobe,,ipv6,unban
