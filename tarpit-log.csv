@@ -2928,3 +2928,4 @@ ip,timestamp,jail,bantime,action
 4.204.193.97,2026-05-28T09:04:54Z,nginx-4xx-catchall,86400,ipv4,ban
 165.245.162.59,2026-05-28T09:50:47Z,nginx-4xx-catchall,86400,ipv4,ban
 45.154.98.214,2026-05-28T10:07:59Z,nginx-4xx-catchall,86400,ipv4,ban
+185.213.174.98,2026-05-28T10:28:30Z,nginx-configprobe,604800,ipv4,ban
