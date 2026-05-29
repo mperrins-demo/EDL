@@ -3015,3 +3015,4 @@ ip,timestamp,jail,bantime,action
 91.239.78.135,2026-05-29T05:28:48Z,nginx-configprobe,,ipv4,unban
 2602:fb54:99a::,2026-05-29T05:30:41Z,nginx-4xx-catchall,,ipv6,unban
 74.249.189.101,2026-05-29T05:33:31Z,nginx-4xx-catchall,86400,ipv4,ban
+2605:fe80:2b:111:1c00:12ff:fe00:9d6,2026-05-29T05:57:23Z,nginx-configprobe,,ipv6,unban
