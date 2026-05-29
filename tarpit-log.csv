@@ -3055,3 +3055,4 @@ ip,timestamp,jail,bantime,action
 2a0e:97c0:3ea:10e::1,2026-05-29T12:11:39Z,nginx-configprobe,,ipv6,unban
 45.94.31.11,2026-05-29T12:12:31Z,nginx-4xx-catchall,,ipv4,unban
 20.226.124.83,2026-05-29T12:20:02Z,nginx-4xx-catchall,86400,ipv4,ban
+20.226.124.83,2026-05-29T12:20:32Z,nginx-wordpress,604800,ipv4,ban
