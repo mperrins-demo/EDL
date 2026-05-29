@@ -3070,3 +3070,4 @@ ip,timestamp,jail,bantime,action
 213.202.253.4,2026-05-29T15:06:36Z,nginx-4xx-catchall,86400,ipv4,ban
 20.226.17.53,2026-05-29T15:09:35Z,nginx-4xx-catchall,,ipv4,unban
 82.102.18.118,2026-05-29T15:16:55Z,nginx-4xx-catchall,,ipv4,unban
+2a06:98c0:3600::103,2026-05-29T15:41:28Z,nginx-4xx-catchall,86400,ipv6,ban
