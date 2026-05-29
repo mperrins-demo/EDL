@@ -3020,3 +3020,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac1:7680:12a8::74:42,2026-05-29T06:07:59Z,nginx-configprobe,604800,ipv6,ban
 45.92.1.243,2026-05-29T06:11:46Z,nginx-4xx-catchall,86400,ipv4,ban
 169.239.85.50,2026-05-29T06:34:57Z,nginx-wordpress,,ipv4,unban
+2.57.122.196,2026-05-29T06:53:29Z,nginx-4xx-catchall,86400,ipv4,ban
