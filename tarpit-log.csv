@@ -3023,3 +3023,4 @@ ip,timestamp,jail,bantime,action
 2.57.122.196,2026-05-29T06:53:29Z,nginx-4xx-catchall,86400,ipv4,ban
 2.57.122.196,2026-05-29T06:58:02Z,nginx-configprobe,604800,ipv4,ban
 91.224.92.120,2026-05-29T07:02:57Z,nginx-4xx-catchall,86400,ipv4,ban
+2a09:bac1:76e0:3d0::3ff:2a,2026-05-29T07:19:49Z,nginx-configprobe,604800,ipv6,ban
