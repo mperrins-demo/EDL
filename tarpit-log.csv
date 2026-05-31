@@ -3308,3 +3308,4 @@ ip,timestamp,jail,bantime,action
 85.121.245.17,2026-05-31T23:11:16Z,nginx-4xx-catchall,,ipv4,unban
 2a02:4780:a:1833:0:23d5:dd0a:1,2026-05-31T23:22:58Z,nginx-4xx-catchall,86400,ipv6,ban
 2a02:4780:a:1833:0:23d5:dd0a:1,2026-05-31T23:23:00Z,nginx-configprobe,604800,ipv6,ban
+62.210.122.147,2026-05-31T23:54:38Z,nginx-configprobe,604800,ipv4,ban
