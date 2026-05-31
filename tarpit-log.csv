@@ -3210,3 +3210,4 @@ ip,timestamp,jail,bantime,action
 139.59.143.102,2026-05-31T00:34:45Z,nginx-configprobe,,ipv4,unban
 157.245.204.205,2026-05-31T00:34:47Z,nginx-configprobe,,ipv4,unban
 191.235.99.14,2026-05-31T00:42:03Z,nginx-4xx-catchall,,ipv4,unban
+216.26.248.182,2026-05-31T00:46:56Z,nginx-configprobe,604800,ipv4,ban
