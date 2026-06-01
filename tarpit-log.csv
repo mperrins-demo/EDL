@@ -3428,3 +3428,4 @@ ip,timestamp,jail,bantime,action
 2a0e:97c0:711:2ea::1,2026-06-01T22:50:29Z,nginx-configprobe,604800,ipv6,ban
 172.183.132.70,2026-06-01T23:04:38Z,nginx-configprobe,,ipv4,unban
 88.151.32.215,2026-06-01T23:04:40Z,nginx-configprobe,,ipv4,unban
+5.255.123.222,2026-06-01T23:12:45Z,nginx-configprobe,,ipv4,unban
