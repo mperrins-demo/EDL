@@ -3500,3 +3500,4 @@ ip,timestamp,jail,bantime,action
 2a06:98c0:3600::103,2026-06-03T00:58:07Z,nginx-4xx-catchall,,ipv6,unban
 54.250.98.190,2026-06-03T01:30:01Z,nginx-configprobe,,ipv4,unban
 195.178.110.103,2026-06-03T01:34:50Z,nginx-configprobe,,ipv4,unban
+93.123.109.178,2026-06-03T02:03:56Z,nginx-configprobe,,ipv4,unban
