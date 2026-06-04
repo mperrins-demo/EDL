@@ -3536,3 +3536,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:99a::,2026-06-04T05:32:48Z,nginx-configprobe,,ipv6,unban
 31.184.236.8,2026-06-04T09:39:01Z,nginx-configprobe,,ipv4,unban
 103.240.192.165,2026-06-04T11:51:18Z,nginx-wordpress,,ipv4,unban
+63.180.237.164,2026-06-04T12:35:42Z,nginx-configprobe,,ipv4,unban
