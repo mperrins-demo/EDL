@@ -3551,3 +3551,4 @@ ip,timestamp,jail,bantime,action
 2a09:bac1:7680:12a8::74:42,2026-06-05T06:07:59Z,nginx-configprobe,,ipv6,unban
 5.255.99.123,2026-06-05T07:38:19Z,nginx-configprobe,,ipv4,unban
 20.104.98.143,2026-06-05T10:36:36Z,nginx-configprobe,,ipv4,unban
+85.121.120.23,2026-06-05T10:54:55Z,nginx-configprobe,,ipv4,unban
