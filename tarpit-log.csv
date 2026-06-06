@@ -3652,3 +3652,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1400::34,2026-06-06T14:45:34Z,nginx-4xx-catchall,86400,ipv6,ban
 161.118.249.52,2026-06-06T15:03:33Z,nginx-wordpress,,ipv4,unban
 157.230.237.171,2026-06-06T15:07:38Z,nginx-configprobe,604800,ipv4,ban
+46.101.121.9,2026-06-06T15:35:55Z,nginx-4xx-catchall,,ipv4,unban
