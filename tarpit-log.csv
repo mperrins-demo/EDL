@@ -3642,3 +3642,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:27:1846:0:90d:a52c:1,2026-06-06T12:33:56Z,nginx-4xx-catchall,86400,ipv6,ban
 2a02:4780:27:1846:0:90d:a52c:1,2026-06-06T12:33:58Z,nginx-configprobe,604800,ipv6,ban
 176.65.139.233,2026-06-06T12:41:00Z,nginx-configprobe,604800,ipv4,ban
+85.115.209.53,2026-06-06T12:53:00Z,nginx-configprobe,604800,ipv4,ban
