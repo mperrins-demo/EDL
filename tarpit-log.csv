@@ -3719,3 +3719,4 @@ ip,timestamp,jail,bantime,action
 185.177.72.11,2026-06-07T08:24:46Z,nginx-configprobe,604800,ipv4,ban
 185.177.72.29,2026-06-07T08:25:38Z,nginx-4xx-catchall,,ipv4,unban
 135.119.53.108,2026-06-07T08:37:14Z,nginx-4xx-catchall,86400,ipv4,ban
+2a02:4780:3f:2163:0:2630:d740:1,2026-06-07T08:42:48Z,nginx-configprobe,604800,ipv6,ban
