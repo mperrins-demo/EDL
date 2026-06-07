@@ -3710,3 +3710,4 @@ ip,timestamp,jail,bantime,action
 92.118.39.32,2026-06-07T06:41:27Z,nginx-4xx-catchall,86400,ipv4,ban
 152.42.225.238,2026-06-07T06:50:00Z,nginx-4xx-catchall,,ipv4,unban
 213.209.159.113,2026-06-07T07:11:48Z,nginx-configprobe,604800,ipv4,ban
+104.28.201.181,2026-06-07T07:12:44Z,nginx-configprobe,,ipv4,unban
