@@ -3845,3 +3845,4 @@ ip,timestamp,jail,bantime,action
 2a02:4780:75:4dcd::1,2026-06-08T14:19:25Z,nginx-configprobe,,ipv6,unban
 65.98.127.3,2026-06-08T14:30:12Z,nginx-configprobe,,ipv4,unban
 136.117.95.73,2026-06-08T14:34:24Z,nginx-4xx-catchall,,ipv4,unban
+35.252.71.62,2026-06-08T14:34:31Z,nginx-4xx-catchall,,ipv4,unban
