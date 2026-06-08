@@ -3869,3 +3869,4 @@ ip,timestamp,jail,bantime,action
 2806:2f0:ac00:e813:410b:d5fe:717d:af1b,2026-06-08T19:53:38Z,nginx-wordpress,604800,ipv6,ban
 45.148.10.21,2026-06-08T19:55:39Z,nginx-4xx-catchall,86400,ipv4,ban
 20.104.72.215,2026-06-08T19:57:01Z,nginx-4xx-catchall,86400,ipv4,ban
+132.196.93.0,2026-06-08T20:11:50Z,nginx-4xx-catchall,86400,ipv4,ban
