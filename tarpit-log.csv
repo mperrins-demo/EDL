@@ -4012,3 +4012,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1400::1d6,2026-06-09T22:30:40Z,nginx-4xx-catchall,,ipv6,unban
 20.197.197.158,2026-06-09T22:57:32Z,nginx-4xx-catchall,86400,ipv4,ban
 2602:fb54:1a00::19b,2026-06-09T23:32:45Z,nginx-4xx-catchall,86400,ipv6,ban
+185.177.72.67,2026-06-09T23:46:33Z,nginx-4xx-catchall,,ipv4,unban
