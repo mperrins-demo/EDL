@@ -3928,3 +3928,4 @@ ip,timestamp,jail,bantime,action
 35.221.8.26,2026-06-09T05:41:55Z,nginx-4xx-catchall,,ipv4,unban
 104.28.196.52,2026-06-09T06:06:33Z,nginx-4xx-catchall,,ipv4,unban
 2a06:a880:5:5c0e::1,2026-06-09T06:19:50Z,nginx-configprobe,604800,ipv6,ban
+2001:41d0:602:2606::1,2026-06-09T06:21:45Z,nginx-4xx-catchall,,ipv6,unban
