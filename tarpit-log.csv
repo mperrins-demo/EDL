@@ -4005,3 +4005,4 @@ ip,timestamp,jail,bantime,action
 132.196.93.0,2026-06-09T20:11:50Z,nginx-4xx-catchall,,ipv4,unban
 34.104.243.240,2026-06-09T20:16:53Z,nginx-4xx-catchall,,ipv4,unban
 159.223.132.86,2026-06-09T20:39:29Z,nginx-configprobe,604800,ipv4,ban
+157.245.204.205,2026-06-09T20:39:32Z,nginx-configprobe,604800,ipv4,ban
