@@ -3906,3 +3906,4 @@ ip,timestamp,jail,bantime,action
 207.174.40.205,2026-06-09T04:00:43Z,nginx-configprobe,,ipv4,unban
 134.209.125.90,2026-06-09T04:04:04Z,nginx-configprobe,,ipv4,unban
 2a06:98c0:3600::103,2026-06-09T04:06:31Z,nginx-4xx-catchall,86400,ipv6,ban
+136.114.227.179,2026-06-09T04:06:44Z,nginx-4xx-catchall,,ipv4,unban
