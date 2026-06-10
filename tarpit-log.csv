@@ -4080,3 +4080,4 @@ ip,timestamp,jail,bantime,action
 2602:fb54:1a00::94,2026-06-10T15:00:03Z,nginx-configprobe,604800,ipv6,ban
 2602:fb54:1a00::94,2026-06-10T15:00:07Z,nginx-4xx-catchall,86400,ipv6,ban
 37.140.254.237,2026-06-10T15:05:34Z,nginx-4xx-catchall,,ipv4,unban
+34.75.74.209,2026-06-10T15:14:56Z,nginx-4xx-catchall,,ipv4,unban
