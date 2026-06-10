@@ -4059,3 +4059,4 @@ ip,timestamp,jail,bantime,action
 167.71.175.236,2026-06-10T09:45:18Z,nginx-configprobe,604800,ipv4,ban
 164.92.107.174,2026-06-10T09:45:20Z,nginx-configprobe,604800,ipv4,ban
 64.227.70.2,2026-06-10T09:45:22Z,nginx-configprobe,604800,ipv4,ban
+139.59.132.8,2026-06-10T09:45:24Z,nginx-configprobe,604800,ipv4,ban
